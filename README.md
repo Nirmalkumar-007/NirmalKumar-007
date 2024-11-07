@@ -16,13 +16,12 @@
   [![Doxygen badge](https://img.shields.io/badge/Doxygen-black?style=flat&logo=doxygen)](https://www.doxygen.nl/)
   [![latex badge](https://img.shields.io/badge/LaTeX-black?style=flat&logo=latex)](https://www.latex-project.org/)
   [![Sphinx badge](https://img.shields.io/badge/Sphinx-black?style=flat&logo=sphinx)](https://www.sphinx-doc.org/)
-  [![ros badge](https://img.shields.io/badge/ROS-black?style=flat&logo=ros)](https://www.ros.org/)
-  [![ros2 badge](https://img.shields.io/badge/ROS2-black?style=flat&logo=ros)](https://www.ros.org/)
   [![gazebo badge](https://img.shields.io/badge/Gazebo-black?style=flat&logo=gazebo)](http://gazebosim.org/)
   [![rviz badge](https://img.shields.io/badge/Rviz-black?style=flat&logo=ros)](https://wiki.ros.org/rviz)
   [![docker badge](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)](https://www.docker.com/)
-  [![Parallels Desktop](https://img.shields.io/badge/Parallels%20Desktop-black?style=flat&logo=parallels)](https://www.parallels.com/)
-
+  [![ros badge](https://img.shields.io/badge/ROS-black?style=flat&logo=ros)](https://www.ros.org/)
+  [![ros2 badge](https://img.shields.io/badge/ROS2-black?style=flat&logo=ros)](https://www.ros.org/)
+  
 ---
 
 
@@ -34,17 +33,14 @@
   
 ---
 
-### Programming Langauges
+### Programming Langauges & Development
   [![c badge](https://img.shields.io/badge/C-black?style=flat&logo=c)](https://www.w3schools.com/c/index.php)
   [![c++ badge](https://img.shields.io/badge/C++-black?style=flat&logo=c%2B%2B)](https://www.w3schools.com/cpp/default.asp)
   [![c# badge](https://img.shields.io/badge/C%23-black?style=flat&logo=csharp)](https://www.w3schools.com/cs/index.php)
-  [![matlab badge](https://img.shields.io/badge/MATLAB-black?style=flat&logo=mathworks)](https://www.mathworks.com/products/matlab.html)
   [![markdown badge](https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown)](https://daringfireball.net/projects/markdown/)
   [![python badge](https://img.shields.io/badge/Python-black?style=flat&logo=python)](https://www.python.org/)
   [![pddl+ badge](https://img.shields.io/badge/PDDL+-black?style=flat&logo=)](https://planning.wiki/ref/pddlplus)
- 
- --- 
- ### Development
+  [![matlab badge](https://img.shields.io/badge/MATLAB-black?style=flat&logo=mathworks)](https://www.mathworks.com/products/matlab.html)
   [![github badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://git-scm.com)
   [![Jupyter Notebook badge](https://img.shields.io/badge/Jupyter%20Notebook-black?style=flat&logo=jupyter)](https://jupyter.org/)
   [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat&logo=pytorch)](https://pytorch.org/)
@@ -56,7 +52,6 @@
 
 ### Productivity
   [![Google Drive badge](https://img.shields.io/badge/Google%20Drive-black?style=flat&logo=google-drive)](https://drive.google.com)
-  [![Keynote badge](https://img.shields.io/badge/Keynote-black?style=flat&logo=keynote)](https://www.apple.com/keynote/)
   [![microsoft excel badge](https://img.shields.io/badge/Microsoft%20Excel-black?style=flat&logo=microsoft%20excel)](https://www.office.com/excel)
   [![microsoft office badge](https://img.shields.io/badge/Microsoft%20Office-black?style=flat&logo=microsoft)](https://www.office.com/)
   [![microsoft outlook badge](https://img.shields.io/badge/Microsoft%20Outlook-black?style=flat&logo=microsoft%20outlook)](https://www.office.com/outlook)
