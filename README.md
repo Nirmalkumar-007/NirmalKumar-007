@@ -1,8 +1,5 @@
 # Hi, I'm [NIRMAL KUMAR RAVIKUMAR](https://www.linkedin.com/in/nirmal-kumar-ravikumar-91b819180/) 
 - 👨🏻‍🎓 Master's graduate in [Robotics Engineering](https://corsi.unige.it/corsi/10635), from [University of Genoa](https://unige.it/en), Italy.
-- 🔎 Currently publishing a scientific paper in robotics.  
-- 🌱 I’m currently learning machine learning and Artificial Intelligence techniques for robotics.
-- ⚡️ Fun facts: Lifelong learner—always diving into new tech trends and the latest sci-fi novels.
 - 📍 Genoa, Italy
 ---
 
