@@ -1,6 +1,6 @@
 # Hi, I'm [NIRMAL KUMAR RAVIKUMAR](https://www.linkedin.com/in/nirmal-kumar-ravikumar-91b819180/) 
--  Research Fellow at [Istituto Italiano di Tecnologia](https://advr.iit.it/), Italy.
-- 👨🏻‍🎓 Master's graduate in [Robotics Engineering](https://corsi.unige.it/corsi/10635), from [University of Genoa](https://unige.it/en), Italy.
+-  Research Fellow at [Istituto Italiano di Tecnologia](https://advr.iit.it/).
+- 👨🏻‍🎓 Master's graduate in [Robotics Engineering](https://corsi.unige.it/corsi/10635), from [University of Genoa](https://unige.it/en).
 - 📍 Genoa, Italy
 ---
 
